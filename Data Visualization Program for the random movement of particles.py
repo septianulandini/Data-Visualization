@@ -1,7 +1,7 @@
 #Data Visualization Program for the random movement of particles
 #Studi Mandiri I FI6091
 #Septian Ulan Dini
-#Supervized by Dr.rer.nat. Sparisoma Viridi, M.Si.
+#Supervised by Dr.rer.nat. Sparisoma Viridi, M.Si.
 
 # %%
 #Data Collection
